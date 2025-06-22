@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb3356ca-3fbf-43a6-9504-e54b462b60ca" name="Changes" comment="Starting with Beginner Level. Styling CSS">
-      <change beforePath="$PROJECT_DIR$/01-Beginner-Level/01.1-Text-Scramble/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner-Level/01.1-Text-Scramble/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Beginner-Level/01.1-Text-Scramble/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner-Level/01.1-Text-Scramble/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="bb3356ca-3fbf-43a6-9504-e54b462b60ca" name="Changes" comment="Starting with Beginner Level. Styling CSS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750501952376</updated>
       <workItem from="1750501953424" duration="1368000" />
-      <workItem from="1750559056584" duration="1719000" />
+      <workItem from="1750559056584" duration="2023000" />
     </task>
     <task id="LOCAL-00001" summary="Starting with Beginner Level. Structuring HTML">
       <option name="closed" value="true" />
@@ -119,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750560565299</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Starting with Beginner Level. Styling CSS">
+      <option name="closed" value="true" />
+      <created>1750560871419</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750560871419</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
