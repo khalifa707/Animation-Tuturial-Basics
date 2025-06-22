@@ -1,0 +1,92 @@
+*,*:before, *:after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #ffffff;
+    color: #000000;
+    font-family: 'JetBrains Mono', monospace;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 32px;
+}
+
+nav{
+    align-items: flex-start;
+    align-self: stretch;
+    position: fixed;
+    top: 32px;
+    left: 32px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    bottom: 32px;
+    position: fixed;
+    left: 32px;
+    right: 32px;
+}
+
+.container{
+    display: flex;
+    max-width: 50%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    align-self: stretch;
+}
+
+.line{
+    width: 100%;
+    height: 1px;
+    background: #000000;
+    opacity: 0.1;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    align-self: stretch;
+}
+
+h1{
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 64px; /* 100% */
+    letter-spacing: -3px;
+    text-transform: uppercase;
+}
+
+p{
+    color: #575252;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 133.333% */
+    letter-spacing: -0.96px;
+    text-transform: capitalize;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.sub-header{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 14px; /* 100% */
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}

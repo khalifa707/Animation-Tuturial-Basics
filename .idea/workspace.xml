@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb3356ca-3fbf-43a6-9504-e54b462b60ca" name="Changes" comment="Starting with Beginner Level. Structuring HTML" />
+    <list default="true" id="bb3356ca-3fbf-43a6-9504-e54b462b60ca" name="Changes" comment="Starting with Beginner Level. Structuring HTML">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Beginner-Level/01.1-Text-Scramble/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner-Level/01.1-Text-Scramble/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Beginner-Level/01.1-Text-Scramble/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner-Level/01.1-Text-Scramble/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "khalifa707"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;khalifa707&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/khalifa707/Animation-Tuturial-Basics.git",
-    "accountId": "461dc824-36ef-4e88-b6e1-97a8d582df40"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/khalifa707/Animation-Tuturial-Basics.git&quot;,
+    &quot;accountId&quot;: &quot;461dc824-36ef-4e88-b6e1-97a8d582df40&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2yoXZDZMKyaIzOFxiEIj5K0taap" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,6 +50,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Development Projects/Animation Tuturial Basics",
     "list.type.of.created.stylesheet": "CSS",
@@ -73,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750501952376</updated>
       <workItem from="1750501953424" duration="1368000" />
+      <workItem from="1750559056584" duration="1043000" />
     </task>
     <task id="LOCAL-00001" summary="Starting with Beginner Level. Structuring HTML">
       <option name="closed" value="true" />
@@ -90,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750503294467</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Starting with Beginner Level. Structuring HTML">
+      <option name="closed" value="true" />
+      <created>1750559196575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750559196575</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
